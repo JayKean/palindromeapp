@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jayde\\app\\app.csproj": {}
+    "C:\\Users\\jayde\\OneDrive\\Documents\\GitRepos\\app\\app.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jayde\\app\\app.csproj": {
+    "C:\\Users\\jayde\\OneDrive\\Documents\\GitRepos\\app\\app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jayde\\app\\app.csproj",
+        "projectUniqueName": "C:\\Users\\jayde\\OneDrive\\Documents\\GitRepos\\app\\app.csproj",
         "projectName": "app",
-        "projectPath": "C:\\Users\\jayde\\app\\app.csproj",
+        "projectPath": "C:\\Users\\jayde\\OneDrive\\Documents\\GitRepos\\app\\app.csproj",
         "packagesPath": "C:\\Users\\jayde\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jayde\\app\\obj\\",
+        "outputPath": "C:\\Users\\jayde\\OneDrive\\Documents\\GitRepos\\app\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jayde\\AppData\\Roaming\\NuGet\\NuGet.Config"
